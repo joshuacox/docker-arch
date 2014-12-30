@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# builds arch image in docker
 set -e
 
 DATE=$(date +"%Y.%m.%d")
